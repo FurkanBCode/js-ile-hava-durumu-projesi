@@ -2,7 +2,7 @@
 
 ### Projenin Amacı
 
-Proje bir Hava Durumu projesidir. API yardımı ile Dünya üzerindeki eş zamanlı sıcaklık, tahmnini sıcaklık ve nem derecesi gibi ödellikler öğrenilebilir.
+Proje Chex için yapılmış bir Hava Durumu projesidir. API yardımı ile Dünya üzerindeki eş zamanlı sıcaklık, tahmnini sıcaklık ve nem derecesi gibi ödellikler öğrenilebilir.
 
 ### Nasıl Çalışır?
 
