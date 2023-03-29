@@ -8,7 +8,7 @@ Proje Chex için yapılmış bir Hava Durumu projesidir. API yardımı ile Düny
 
 Bu Proje html uzantılıdır. Dizin içerisindeki index.html uzantısı ile açılır. 
 Proje içerisinde 
-`(https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=metric&appid=e47794ad48208c2c52044290a142b3e0)` API bağlanma keyi mevcuttur. 
+`(https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=metric&appid=APIKEY)` API bağlanma keyi mevcuttur. 
 Bu projeyi çalıştırmak isteyen kullanıcı kendi API keyini almalıdır. Aldığı key appid kısmına yapıştırılmalıdır.
 [OpenWeather API KEY oluşturmak için](https://openweathermap.org/) tıklayınız
 ### Nasıl Kullanılır?
