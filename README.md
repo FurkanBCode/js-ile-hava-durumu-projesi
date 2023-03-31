@@ -10,7 +10,7 @@ Bu Proje html uzantılıdır. Dizin içerisindeki index.html uzantısı ile aç�
 Proje içerisinde 
 `(https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=metric&appid=APIKEY)` API bağlanma keyi mevcuttur. 
 Bu projeyi çalıştırmak isteyen kullanıcı kendi API keyini almalıdır. Aldığı key appid kısmına yapıştırılmalıdır.
-[OpenWeather API KEY oluşturmak için](https://openweathermap.org/) tıklayınız
+OpenWeather API KEY oluşturmak için [tıklayınız](https://openweathermap.org/)
 ### Nasıl Kullanılır?
 
 İnput alanına Ülke, şehir, il, ilçe ve mahalle isimlerinden tercihen girilir. Öğrenilmek istenen Sıcaklık, nem ve hissedilen sıcaklık
